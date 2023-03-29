@@ -16,9 +16,9 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Operating System: Windows
 
 ## Soft Skills
-* teamwork
-* excellent communication skills
-* problem solving
-* analytical thinking 
-* attention to details
-* empathy
+* Teamwork
+* Excellent communication skills
+* Problem solving
+* Analytical thinking 
+* Attention to details
+* Empathy
