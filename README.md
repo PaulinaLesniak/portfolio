@@ -29,3 +29,15 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * SQL Server database query language ([https://www.udemy.com/course/kurs-sql/])
 * Postman - Backend Testing School ([https://akademiaqa.pl/]) - in progress
 * Java & Selenium WebDriver in Java ([https://testelka.pl/#programy]) - in progress
+
+## Books
+* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
+* Zawód tester - Radosław Smilgin
+* Praktyka testowania - Radosław Smilgin
+* Pasja testowania - Krzysztof Jadczyk
+* English 4 IT - Beata Błaszczyk
+* Hands-on Mobile App Testing - Daniel Knott
+
+
+## My Projects
+..in progress
