@@ -38,9 +38,9 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * English 4 IT - Beata Błaszczyk
 * Hands-on Mobile App Testing - Daniel Knott
 
-## Blogs
+## Blogs :scroll:
 
 ## Podcasts :headphones:
 
-## My Projects
+## My Projects :heavy_check_mark:
 ..in progress
