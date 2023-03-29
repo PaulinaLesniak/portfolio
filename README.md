@@ -5,9 +5,9 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 ..and I strongly believe that team is better than a hero.
 
 ## Soft Skills
-..*	teamwork
-..*	excellent communication skills
-..*	problem solving
-..*	analytical thinking 
-..•	attention to details
-..•	empathy
+•	teamwork
+•	excellent communication skills
+•	problem solving
+•	analytical thinking 
+•	attention to details
+•	empathy
