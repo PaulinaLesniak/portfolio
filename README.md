@@ -41,6 +41,17 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 ## Blogs :scroll:
 
 ## Podcasts :headphones:
+* The Underground QA Podcast [https://open.spotify.com/show/3H0OE0ZJXgsxCUjvHOb5qg]
+* TestTalks [https://open.spotify.com/show/4ggPfMi7bSpJqS9Dv5Vfao]
+* Szkoła testowania [https://open.spotify.com/show/6Wb4Ef2Z16IuOd67MEJhBt]
+* Digitalks [https://open.spotify.com/show/1sWD7z5hgO0vTFQLhthQsA]
+* Porozmawiajmy o IT [https://open.spotify.com/show/6rI5ht3thikrMvgY69fnuW]
+* Po szklanie i na testowanie [https://open.spotify.com/show/3kWG4pdHR9NIIGAMYTlpK3]
+* Software Testing Podcast [https://open.spotify.com/show/0gWSftuQabA1WFBD5SA7ya]
+* AB Testing [https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI]
+* Testowanie oprogramowania [https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd]
+* The guilty Tester [https://open.spotify.com/show/15BE5XUB3967JTytxCkVnv]
+* Podcast Oli Kunysz [https://open.spotify.com/show/0YnJ72FqHGuwwq6x1E9bD6]
 
 ## My Projects :heavy_check_mark:
 ..in progress
