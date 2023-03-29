@@ -2,7 +2,7 @@
 
 ## About me
 I am a certified Software Tester. I have over 17 years of professional experience in retail banking and finance. 
-..and I strongly believe that team is better than a hero.
+..and I strongly believe that team is better than a hero. :muscle:
 
 ## Tech Stack
 * ISTQB FL Knowledge
