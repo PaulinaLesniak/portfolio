@@ -9,7 +9,7 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Creating test cases  & test scenarios
 * Reporting bugs
 * Databases: SQL Managment Studio, MySQL 
-* Testing: Postman, Selenium IDE
+* Testing: Postman, Selenium IDE, BDD
 * Languages: Java (basic)
 * Other tools: JIRA, TestRail, Chrome DevTools
 * Version Control System: GIT
