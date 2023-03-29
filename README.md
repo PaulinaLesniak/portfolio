@@ -4,10 +4,10 @@
 I am a certified Software Tester. I have over 17 years of professional experience in retail banking and finance. 
 ..and I strongly believe that team is better than a hero. :muscle: :smirk:
 
-## Tech Stack
+## Tech Stack :hammer: :wrench:
 * ISTQB FL Knowledge
-* Creating test cases  & test scenarios
-* Reporting bugs
+* Test cases  & test scenarios creating
+* Bugs reporting
 * Databases: SQL Managment Studio, MySQL 
 * Testing: Postman, Selenium IDE, BDD
 * Languages: Java (basic)
@@ -15,7 +15,7 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Version Control System: GIT
 * Operating System: Windows
 
-## Soft Skills
+## Soft Skills :rabbit:
 * Teamwork
 * Excellent communication skills
 * Problem solving
@@ -23,14 +23,14 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Attention to details
 * Empathy
 
-## Courses & Certificates
+## Courses & Certificates :mortar_board:
 * Software Testing Course ([https://sdacademy.pl/kursy/software-tester])
 * DevTools ([ https://szkoleniedlaqa.pl/])
 * SQL Server database query language ([https://www.udemy.com/course/kurs-sql/])
 * Postman - Backend Testing School ([https://akademiaqa.pl/]) - in progress
 * Java & Selenium WebDriver in Java ([https://testelka.pl/#programy]) - in progress
 
-## Books
+## Books :books:
 * Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
 * Zawód tester - Radosław Smilgin
 * Praktyka testowania - Radosław Smilgin
@@ -38,6 +38,9 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * English 4 IT - Beata Błaszczyk
 * Hands-on Mobile App Testing - Daniel Knott
 
+## Blogs
+
+## Podcasts :headphones:
 
 ## My Projects
 ..in progress
