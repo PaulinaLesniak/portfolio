@@ -4,6 +4,7 @@
 I am a certified Software Tester. I have over 17 years of professional experience in retail banking and finance. 
 ..and I strongly believe that team is better than a hero. :muscle: :smirk:
 
+
 ## Tech Stack :hammer: :wrench:
 * ISTQB FL Knowledge
 * Test cases  & test scenarios creating
@@ -15,6 +16,7 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Version Control System: GIT
 * Operating System: Windows
 
+
 ## Soft Skills :rabbit:
 * Teamwork
 * Excellent communication skills
@@ -23,12 +25,14 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Attention to details
 * Empathy
 
+
 ## Courses & Certificates :mortar_board:
 * Software Testing Course [https://sdacademy.pl/kursy/software-tester]
 * DevTools [ https://szkoleniedlaqa.pl/]
 * SQL Server database query language [https://www.udemy.com/course/kurs-sql/]
 * Postman - Backend Testing School [https://akademiaqa.pl/] - in progress
 * Java & Selenium WebDriver in Java [https://testelka.pl/#programy] - in progress
+
 
 ## Books :books:
 * Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
@@ -38,7 +42,18 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * English 4 IT - Beata Błaszczyk
 * Hands-on Mobile App Testing - Daniel Knott
 
+
 ## Blogs :scroll:
+* https://testerzy.pl/
+* https://pwicherski.gitbook.io/testowanie-oprogramowania/gdzie-szukac-wiedzy/blogi
+* https://www.wyszkolewas.com.pl/blog/
+* https://testelka.pl/blog/
+* https://sii.pl/blog/testowanie/
+* http://thetesteye.com/blog/
+* https://www.samouczekprogramisty.pl/
+* https://krystianbrozek.pl/
+* https://pasja-informatyki.pl/
+
 
 ## Podcasts :headphones:
 * The Underground QA Podcast [https://open.spotify.com/show/3H0OE0ZJXgsxCUjvHOb5qg]
@@ -52,6 +67,7 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Testowanie oprogramowania [https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd]
 * The guilty Tester [https://open.spotify.com/show/15BE5XUB3967JTytxCkVnv]
 * Podcast Oli Kunysz [https://open.spotify.com/show/0YnJ72FqHGuwwq6x1E9bD6]
+
 
 ## My Projects :heavy_check_mark:
 ..in progress
