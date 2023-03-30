@@ -66,8 +66,13 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * AB Testing https://open.spotify.com/show/1CrWfV0KNH9HevtsFut1iI
 * Testowanie oprogramowania https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd
 * The guilty Tester https://open.spotify.com/show/15BE5XUB3967JTytxCkVnv
-* Podcast Oli Kunysz https://open.spotify.com/show/0YnJ72FqHGuwwq6x1E9bD6
+* Podcast Oli Kunysz https://open.spotify.com/show/0YnJ7https://pl.pinterest.com/pannazorianna/myartworks/2FqHGuwwq6x1E9bD6
 
 
 ## My Projects :heavy_check_mark:
 ..in progress
+
+
+
+#afterwork
+check out my ArtWork :art: :point_right:  https://pl.pinterest.com/pannazorianna/myartworks/
