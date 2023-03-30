@@ -27,11 +27,11 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 
 
 ## Courses & Certificates :mortar_board:
-* Software Testing Course https://sdacademy.pl/kursy/software-tester
+* Software Testing Course https://sdacademy.pl/
 * DevTools https://szkoleniedlaqa.pl/
-* SQL Server database query language https://www.udemy.com/course/kurs-sql/
+* SQL Server database query language https://www.udemy.com/
 * Postman - Backend Testing School https://akademiaqa.pl/ - in progress
-* Java & Selenium WebDriver in Java https://testelka.pl/#programy - in progress
+* Java & Selenium WebDriver in Java https://testelka.pl/ - in progress
 
 
 ## Books :books:
