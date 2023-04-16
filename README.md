@@ -41,6 +41,7 @@ I am a certified Software Tester. I have over 17 years of professional experienc
 * Pasja testowania - Krzysztof Jadczyk
 * English 4 IT - Beata Błaszczyk
 * Hands-on Mobile App Testing - Daniel Knott
+* SQL Praktyczny kurs - Danuta Mendrala, Marcin Szeliga
 
 
 ## Blogs :scroll:
